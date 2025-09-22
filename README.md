@@ -16,3 +16,9 @@ Reproduction of example 2-2:
 Reproduction of Chapter 3 examples:
 
 ![alt text](img/image3.png)
+
+### Activity 1.4
+Modification of Chapter 4 example:
+
+![alt text](img/image4.png)
+![alt text](image.png)
