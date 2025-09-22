@@ -2,3 +2,8 @@
 > Hi, my name is Xiaoxiao (Sean) Zhao!
 
 > This repo is a clone of https://github.com/miguelgrinberg/flasky
+
+### Acticity 1.2
+Reproduction of example 2-1:
+![alt text](img/image.png)
+
