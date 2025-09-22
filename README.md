@@ -21,4 +21,4 @@ Reproduction of Chapter 3 examples:
 Modification of Chapter 4 example:
 
 ![alt text](img/image4.png)
-![alt text](image.png)
+![alt text](img/image5.png)
