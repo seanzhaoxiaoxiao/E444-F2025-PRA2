@@ -3,7 +3,7 @@
 
 > This repo is a clone of https://github.com/miguelgrinberg/flasky
 
-### Acticity 1.2
+### Activity 1.2
 Reproduction of example 2-1:
 
 ![alt text](img/image.png)
@@ -11,3 +11,8 @@ Reproduction of example 2-1:
 Reproduction of example 2-2:
 
 ![alt text](img/image2.png)
+
+### Activity 1.3
+Reproduction of Chapter 3 examples:
+
+![alt text](img/image3.png)
