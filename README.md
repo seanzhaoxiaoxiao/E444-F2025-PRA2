@@ -5,5 +5,9 @@
 
 ### Acticity 1.2
 Reproduction of example 2-1:
+
 ![alt text](img/image.png)
 
+Reproduction of example 2-2:
+
+![alt text](img/image2.png)
