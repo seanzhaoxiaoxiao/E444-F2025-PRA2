@@ -22,3 +22,6 @@ Modification of Chapter 4 example:
 
 ![alt text](img/image4.png)
 ![alt text](img/image5.png)
+
+### Activity 2.3
+![alt text](img/image6.png)
